@@ -1,1 +1,1 @@
-TinDog Starting Files
+Virtual Application Tindog Website
